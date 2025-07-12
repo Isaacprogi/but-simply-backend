@@ -6,9 +6,9 @@
 
  ```bash
 PORT = 4000
-ATS=abankabarotoAAAAAoo
+ATS=rastafa2WW
 ATE=1h
-RTS=abankabarotoooWWWWWPPP
+RTS=jalala344WWW
 RTE=7d
 ```
 
